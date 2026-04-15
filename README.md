@@ -23,6 +23,10 @@ Maintained by [AdMapix](https://www.admapix.com) — AI-powered ad intelligence 
 - [Web Analytics Intelligence](#web-analytics-intelligence)
 - [Mobile App Analytics](#mobile-app-analytics)
 - [AI-Powered Ad Intelligence](#ai-powered-ad-intelligence)
+- [Competitive Intelligence & Monitoring](#competitive-intelligence--monitoring)
+  - [Enterprise Platforms](#enterprise-platforms)
+  - [SMB & Indie Tools](#smb--indie-tools)
+  - [Change Detection](#change-detection)
 - [Niche & Channel-Specific](#niche--channel-specific)
   - [TikTok / Short Video](#tiktok--short-video)
   - [E-commerce / Shopify](#e-commerce--shopify)
@@ -87,6 +91,24 @@ Maintained by [AdMapix](https://www.admapix.com) — AI-powered ad intelligence 
 
 - [AdMapix Deep Research](https://www.admapix.com) — Natural language queries that orchestrate dozens of API calls and generate shareable reports across creatives, downloads, revenue, and rankings.
 - [Browse AI](https://www.browse.ai/) — Build your own ad scrapers using natural language.
+
+## Competitive Intelligence & Monitoring
+
+> Platforms for tracking competitor moves beyond ads — pricing, messaging, product changes, and win/loss signals.
+
+### Enterprise Platforms
+
+- [Klue](https://klue.com/) — Competitive enablement platform for enterprise sales and product marketing teams; aggregates competitor intel into battlecards.
+- [Crayon](https://www.crayon.co/) — Market and competitive intelligence with automated tracking across millions of sources.
+
+### SMB
+
+- [Meertrack](https://meertrack.com/) — Lightweight competitor monitoring for small teams.
+
+### Change Detection
+
+- [Visualping](https://visualping.io/) — Monitor any webpage for visual or content changes with alerting.
+- [ChangeTower](https://changetower.com/) — Track website changes, content diffs, and keyword appearances over time.
 
 ## Niche & Channel-Specific
 
