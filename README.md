@@ -76,6 +76,7 @@ Maintained by [AdMapix](https://www.admapix.com) — AI-powered ad intelligence 
 - [data.ai](https://www.data.ai/) — Mobile app market data (formerly App Annie).
 - [AppMagic](https://appmagic.rocks/) — App store analytics with strong free tier.
 - [AppFollow](https://appfollow.io/) — App store optimization (ASO) and review monitoring.
+- [GetAppNiche](https://getappniche.com/) — App Store intelligence for indie iOS founders with revenue estimates, downloads, ASO keywords, ads, and reviews.
 - [Apptopia](https://apptopia.com/) — Mobile app market intelligence.
 - [MobileAction](https://www.mobileaction.co/) — ASO, market intelligence, and ad spy for mobile.
 - [AppGrowing](https://appgrowing.net/) — Mobile ad creative intelligence (China and global).
