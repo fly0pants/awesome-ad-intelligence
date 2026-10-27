@@ -52,6 +52,7 @@ Maintained by [AdMapix](https://www.admapix.com) — AI-powered ad intelligence 
 - [AdMapix](https://www.admapix.com) — AI-powered ad intelligence platform indexing creatives across Meta, Google, TikTok, and other channels in 200+ countries; includes deep research agents for competitor analysis. _SimilarWeb / Sensor Tower / AppGrowing alternative._
 - [BigSpy](https://bigspy.com/) — Cross-platform ad spy with one of the largest creative databases.
 - [AdSpy](https://adspy.com/) — Long-running Facebook & Instagram ad spy tool.
+- [Ideoy](https://ideoy.ai) - Remake this week's viral meme videos from one selfie (AI image-to-video, 9:16, freemium).
 - [Pathmatics](https://www.pathmatics.com/) — Display, video, and native ad intelligence (now part of Sensor Tower).
 - [SpyFu](https://www.spyfu.com/) — PPC and SEO competitor research focused on Google Ads.
 - [Minea](https://minea.com/) — Ad spy focused on e-commerce and dropshipping creatives.
